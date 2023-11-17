@@ -1,4 +1,4 @@
-# 소프트웨어공학 Team Project#1
+# 소프트웨어공학 Team Project
 
 ![images](https://img.shields.io/github/license/minji-o-j/AI-Speaker-for-Senior-Citizen?style=flat-square)
 ![image](https://img.shields.io/badge/language-Python-blueviolet?style=flat-square&logo=Python)
@@ -16,7 +16,7 @@
   
 ---
 ## 개발 기간
-- 2023/11/06 ~ 2023/11/17
+- project1: 2023/11/06 ~ 2023/11/17
 <br/>
   
 ---
@@ -34,12 +34,12 @@
 - 201912430 조민서 : basic_code - main.py
 - 201912431 조승호 : validation - validator.py
 <br/>
-
+![image](https://user-images.githubusercontent.com/45448731/78457876-68258100-76e8-11ea-926c-19ff1f53cff8.png)
 ---  
 
   
 
 ## Work Flow
-<img src="https://github.com/lalala5772/algorithm/blob/e74534abc47210aa62b9d5c1f6efbedb1edcb556/Workflow%20Diagram.png)https://github.com/lalala5772/algorithm/blob/e74534abc47210aa62b9d5c1f6efbedb1edcb556/Workflow%20Diagram.png"  width="700" height="370">
+<img src="https://github.com/lalala5772/algorithm/blob/e74534abc47210aa62b9d5c1f6efbedb1edcb556/Workflow%20Diagram.png"  width="700" height="370">
 
 <br/>
