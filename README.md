@@ -1,6 +1,7 @@
 # 소프트웨어공학
-# Team Project
-
+## Team Project
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 ---
 ## 프로젝트 내용
  - 간단한 CUI(Console User Interface)기반 계산기
