@@ -34,12 +34,12 @@
 - 201912430 조민서 : basic_code - main.py
 - 201912431 조승호 : validation - validator.py
 <br/>
-![image](https://user-images.githubusercontent.com/45448731/78457876-68258100-76e8-11ea-926c-19ff1f53cff8.png)
 ---  
 
   
 
 ## Work Flow
-<img src="https://github.com/lalala5772/algorithm/blob/e74534abc47210aa62b9d5c1f6efbedb1edcb556/Workflow%20Diagram.png"  width="700" height="370">
+<br/>
+<img src="Workflow_Diagram.png"  width="700" height="370">
 
 <br/>
