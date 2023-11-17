@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 # 소프트웨어공학
-## Team Project  
+## Team Project
+![images](https://img.shields.io/github/license/minji-o-j/AI-Speaker-for-Senior-Citizen?style=flat-square)
+![image](https://img.shields.io/badge/language-Python-blueviolet?style=flat-square&logo=Python)
+![image](https://img.shields.io/badge/Latest%20Update-200404-9cf?style=flat-square)
 
-  
+
 ---
 ## 프로젝트 내용
  - 간단한 CUI(Console User Interface)기반 계산기
