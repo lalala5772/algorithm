@@ -42,5 +42,3 @@
 ## Work Flow
 <!-- ![codeFlow](~@source/.vuepress/public/image/2021_04_user_count.png) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
