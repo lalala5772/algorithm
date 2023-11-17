@@ -40,6 +40,6 @@
 
 ## Work Flow
 <br/>
-<img src="./Workflow_Diagram.png"  width="700" height="370">
+![workFlow](/Workflow_Diagram.png)
 
 <br/>
