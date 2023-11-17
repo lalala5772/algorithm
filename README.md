@@ -40,5 +40,6 @@
   
 
 ## Work Flow
-![codeFlow](~@source/Workflow Diagram.png)
+<img src="/Workflow Diagram.png"  width="700" height="370">
+
 <br/>
