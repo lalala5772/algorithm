@@ -25,12 +25,12 @@
  - 특정 쿼리에 대한 이스터에그가 존재하며, ['토끼','뽀시래기','귀요미'] 를 입력했을 때 학교에서 키우는 토끼의 집을 알 수 있다.
 
 
-
+<br/>
 ---
 ## 개발 스택
 <img width="480" alt="image" src="https://github.com/lalala5772/algorithm/assets/65425885/75894e8b-d7f8-4196-af01-3964d37f73b0">
 
-
+<br/>
 ---
   
 ## branch
@@ -42,14 +42,13 @@
 - lalala5772: 프로젝트를 진행하며 작성했지만 최종에서 사용하지 않은 코드 - 한국어 형태소 분석기(tokenizing)
 
 
-
+<br/>
 ---
 ## 주요 기능
 ### DPR
 <img width="480" alt="image" src="https://github.com/lalala5772/algorithm/assets/65425885/a0dfb0cb-38cb-413d-8ac0-7d041aaa8e6b">
 
-
-
+<br/>
 
 
 
@@ -61,8 +60,7 @@
 - Negative passage: Question과 관련성이 낮거나 무관한 정보를 포함하는 document
 - Question에 대해 positive(=정답) passage는 가까워지고, negative(=정답이 아님) passage와는 멀어지도록 함
 
-
-
+<br/>
 
 
 
@@ -71,7 +69,8 @@
 <img width="400" alt="image" src="https://github.com/lalala5772/algorithm/assets/65425885/fbe0aceb-524c-4f87-b7ce-e6743760e8b5">
 
 
-
+<br/>
+<br/>
 
 
 ---
