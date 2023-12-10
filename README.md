@@ -65,10 +65,10 @@
 ### koBert base의 모델을 추가 학습한 내용
 - 학습 데이터는  Question-Document Pair 형태로 구성
 - Document는 주어진 Question과 나타내는 위치가 일치하는 설명 텍스트에 해당
- - e.g. {‘docid’:’1’, ‘qid’:’1’, ‘query’:’공대 7호관 옆 흡연구역으로 와주세요.’, ‘positive_passage’:’(쿼리가 설명하는 위치에 대한 설명)’}
-  - Positive passage: Question에 대한 정확한 답변이나 관련 정보를 포함하는 document
-  - Negative passage: Question과 관련성이 낮거나 무관한 정보를 포함하는 document
-- Question에 대해 positive(=정답) passage는 가까워지고, negative(=정답이 아님) passage와는 멀어지도록 함
+- - e.g. {‘docid’:’1’, ‘qid’:’1’, ‘query’:’공대 7호관 옆 흡연구역으로 와주세요.’, ‘positive_passage’:’(쿼리가 설명하는 위치에 대한 설명)’}
+- Positive passage: Question에 대한 정확한 답변이나 관련 정보를 포함하는 document
+- Negative passage: Question과 관련성이 낮거나 무관한 정보를 포함하는 document
+- **Question에 대해 positive(=정답) passage는 가까워지고, negative(=정답이 아님) passage와는 멀어지도록 함**
 <br>
 <br>
 
@@ -96,5 +96,22 @@
 
 
 <img width="500" alt="스크린샷 2023-12-11 오전 12 48 45" src="https://github.com/lalala5772/algorithm/assets/65425885/ec8590cb-0eaf-407f-809f-60c8d52d4c49">
+
+<br><br>
+
+
+---
+
+## 개발자
+### 팀 오키duckey
+- 김자연: 데이터 수집 및 가공, dpr 모델 개발, 서버 개발
+- 이미르: 데이터 수집 및 가공, dpr 모델 개발, 클라이언트 개발
+<br><br>
+
+---
+
+## 개발 기간
+
+![9월](https://github.com/lalala5772/algorithm/assets/65425885/68618242-71cc-4a2c-b286-398f8c53fce7)
 
 <br><br>
