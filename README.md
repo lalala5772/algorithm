@@ -1,13 +1,10 @@
-# 시맨틱(semantic) 기반위치 정보 추정 기술
+# 시맨틱(semantic) 기반 위치 정보 추정 기술
 ## 사용자가 입력한 질의에 대해 가장 큰 유사도를 보이는 좌표 값을 출력하여 지도에 보여준다.
 
 
 ![images](https://img.shields.io/github/license/minji-o-j/AI-Speaker-for-Senior-Citizen?style=flat-square)
 ![image](https://img.shields.io/badge/language-Python-blueviolet?style=flat-square&logo=Python)
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+![image](https://img.shields.io/badge/language-Javascript-blueviolet?style=flat-square&logo=Javascript)
 ![image](https://img.shields.io/badge/Latest%20Update-231211-9cf?style=flat-square)
 <br/>
 
