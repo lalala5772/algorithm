@@ -49,6 +49,10 @@
 <img width="480" alt="image" src="https://github.com/lalala5772/algorithm/assets/65425885/a0dfb0cb-38cb-413d-8ac0-7d041aaa8e6b">
 
 
+
+
+
+
 ### koBert base의 모델을 추가 학습한 내용
 - 학습 데이터는  Question-Document Pair 형태로 구성
 - Document는 주어진 Question과 나타내는 위치가 일치하는 설명 텍스트에 해당
@@ -59,8 +63,17 @@
 
 
 
+
+
+
+
 ### 성능 지표
 <img width="400" alt="image" src="https://github.com/lalala5772/algorithm/assets/65425885/fbe0aceb-524c-4f87-b7ce-e6743760e8b5">
+
+
+
+
+
 ---
 
 ## 실행 결과
