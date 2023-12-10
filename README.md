@@ -8,7 +8,7 @@
 ![image](https://img.shields.io/badge/language-Python-blueviolet?style=flat-square&logo=Python)
 ![image](https://img.shields.io/badge/language-Javascript-blueviolet?style=flat-square&logo=Javascript)
 ![image](https://img.shields.io/badge/Latest%20Update-231211-9cf?style=flat-square)
-<br/>
+
 
 ---
 ## 프로젝트 개요
