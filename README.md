@@ -2,6 +2,8 @@
 ### 위치를 묻는 query에 대해 POI(point of interest)를 제공해주는 지도 웹 서비스
 
 
+
+
 ![images](https://img.shields.io/github/license/minji-o-j/AI-Speaker-for-Senior-Citizen?style=flat-square)
 ![image](https://img.shields.io/badge/language-Python-blueviolet?style=flat-square&logo=Python)
 ![image](https://img.shields.io/badge/language-Javascript-blueviolet?style=flat-square&logo=Javascript)
